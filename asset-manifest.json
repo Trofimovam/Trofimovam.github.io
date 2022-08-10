@@ -1,22 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.cdf579e9.css",
-    "main.js": "/static/js/main.fb97e530.js",
+    "main.js": "/static/js/main.3331e9f4.js",
     "static/js/787.4ff3cea1.chunk.js": "/static/js/787.4ff3cea1.chunk.js",
     "static/media/vetochkaWelcome.png": "/static/media/vetochkaWelcome.330493c07c7b88e2f63f.png",
     "static/media/Dmitrii.png": "/static/media/Dmitrii.285cecbe0b421bfb9898.png",
     "static/media/headerVetki.jpg": "/static/media/headerVetki.c88cf1ce15b9542fe3c8.jpg",
     "static/media/brushscriptmt.otf": "/static/media/brushscriptmt.b0ae7f70d83785c130bc.otf",
     "static/media/Ksenia.png": "/static/media/Ksenia.ce85c91c2d6217d02255.png",
-    "static/media/Vetochka.jpg": "/static/media/Vetochka.d8151daf4fb932a1e0c1.jpg",
     "index.html": "/index.html",
     "static/media/dateIcon.svg": "/static/media/dateIcon.4c09d5ae19aa5d586275d1618ef394f6.svg",
     "main.cdf579e9.css.map": "/static/css/main.cdf579e9.css.map",
-    "main.fb97e530.js.map": "/static/js/main.fb97e530.js.map",
+    "main.3331e9f4.js.map": "/static/js/main.3331e9f4.js.map",
     "787.4ff3cea1.chunk.js.map": "/static/js/787.4ff3cea1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cdf579e9.css",
-    "static/js/main.fb97e530.js"
+    "static/js/main.3331e9f4.js"
   ]
 }
